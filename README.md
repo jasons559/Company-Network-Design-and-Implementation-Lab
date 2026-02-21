@@ -2,9 +2,13 @@
 
 
 <h2>Description</h2>
-    In this project, I designed an enterprise network for a trading floor support center. This network design connects six departments,on three seperate floors within the buildng. Each floor consists of two departments, with 120 expected users per department. The goal of this project was to design a hierarchical network model, that meets current business needs, as well as future expansion, incorporating redundancy at each level.
+    In this project, I designed an enterprise network for a trading floor support center. This network design connects six departments,on three seperate floors within the buildng. Each floor consists of two departments, with 120 expected users per department. The goal of this project, was to design a hierarchical network model, to meet current business needs, as well as future expansion, incorporating redundancy at each layer.
+    
+Network components include:6 multi-layer switches, 2 routers,and 2 ISPS. 
+Department end devices include: PCs, printers, laptops, and printers with wireless connection capabilitiies.  
 
 Configured basic settings for all intermediary and end devices, such as hostname assignment, password enabling, banner messaging, and IP domain lookup disabling.
+
 Created subnets, performed IP address and VLAN assignment, configured inter-VLAN routing with access and port trunking Additional configurations implemented include: switchport security, SSH and OSPF routing protocol, wireless network and DHCP server configuration, port address translation (PAT), and access control lists
 
 <br />
