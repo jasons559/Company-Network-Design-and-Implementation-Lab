@@ -11,13 +11,14 @@
 <b>Process and Configuration:</b>
 <ul>
 <li>Configured basic settings for all intermediary and end devices, such as hostname assignment, consle password enabling, banner messaging, and IP domain lookup disabling.</li>
-<li>IP address and VLAN assignment, for all departments, with access and port trunking, for inter-VLAN routing </li>
+<li>IP address and VLAN assignment, for all departments </li>
+<li>Multi-layer switch configuration for inter-VLAN routing,on 13 switches. Plus DHCP helper addresses </li>
 <li>Configured switchport security to the Finance Department</li>
-<li>Statically allocated IP adresses to server room devices</li>
 <li>Used OSPF routing protocol to advertise on routers,and multi-layer switches</li>
+<li>Statically allocated IP adresses to server room devices</li>
 <li>Configured SSH for all routers and layer 3 switches for remote login</li>
 <li>port address translation (PAT), and access control lists</li>
-
+access and port trunking,
 </ul>
 <br />
 
