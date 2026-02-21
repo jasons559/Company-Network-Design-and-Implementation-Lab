@@ -24,7 +24,7 @@
 <li>Inter-VLAN routing for layer 3 switches. Plus DHCP helper addresses </li>
 <li>Wireless network configuration,with WPA2-PSK authentication, for laptops and tablets</li>
 <li>Port Address Translation (PAT), and access control lists</li>
-access and port trunking,
+
 </ul>
 <br />
 
