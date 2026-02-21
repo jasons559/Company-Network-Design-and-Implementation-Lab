@@ -38,7 +38,7 @@ access and port trunking,
 
 - <b>MAC OS</b> 
 
-<h2>Program walk-through:</h2>
+<h2>Network Screenshots:</h2>
 
 <p align="center">
 Launch the utility: <br/>
