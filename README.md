@@ -19,10 +19,10 @@
 <li>VLAN assignment for all departments, with access and trunk ports on 12 and 13 switches </li>
 <li>Configured switchport security to the Finance Department</li> 
 <li>IP addressing and subnetting using address table </li>
-<li>Used OSPF routing protocol to advertise on routers,and multi-layer switches</li>
+<li>Applied OSPF routing protocol to advertise departments on routers,and multi-layer switches</li>
 <li>Statically allocated IP adresses to server room devices, and configured DHCP server</li>
 <li>Multi-layer switch configuration for inter-VLAN routing,on 13 switches. Plus DHCP helper addresses </li>
-<li>Added wireless network configurations</li>
+<li>Added wireless network configurations for laptops and tablets</li>
 <li>port address translation (PAT), and access control lists</li>
 access and port trunking,
 </ul>
