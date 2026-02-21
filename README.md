@@ -6,7 +6,7 @@
 
 <b>Network components:</b>8 switches, 2 routers, 2 ISPS, DNS, DHCP, and E-mail servers
 
-<b>Additional devices:</b>PCs, printers, laptops, and tablets, with wireless connectivity. 
+<b>Additional devices:</b>PCs, printers, access points,laptops, and tablets, with wireless connectivity. 
 
 <p><b>1st Floor:</b> Sales and Marketing+ Human Resources/Logistics
 <b>2nd Floor:</b> Finance and Accounting+ Administrator/Public Relations
