@@ -2,18 +2,22 @@
 
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+    In this project, I designed an enterprise network for a trading floor support center. This network design connects six departments,on three seperate floors within the buildng. Each floor consists of two departments, with 120 expected users per department. The goal of this project was to design a hierarchical network model, that meets current business needs, as well as future expansion, incorporating redundancy at each level.
+
+Configured basic settings for all intermediary and end devices, such as hostname assignment, password enabling, banner messaging, and IP domain lookup disabling.
+Created subnets, performed IP address and VLAN assignment, configured inter-VLAN routing with access and port trunking Additional configurations implemented include: switchport security, SSH and OSPF routing protocol, wireless network and DHCP server configuration, port address translation (PAT), and access control lists
+
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Cisco Packet Tracer</b> 
+
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>MAC OS</b> (21H2)
 
 <h2>Program walk-through:</h2>
 
