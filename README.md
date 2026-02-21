@@ -22,8 +22,8 @@
 <li>Applied OSPF routing protocol to advertise departments on routers,and multi-layer switches</li>
 <li>Statically allocated IP adresses to server room devices, and configured DHCP server</li>
 <li>Multi-layer switch configuration for inter-VLAN routing,on 13 switches. Plus DHCP helper addresses </li>
-<li>Added wireless network configurations for laptops and tablets</li>
-<li>port address translation (PAT), and access control lists</li>
+<li>Added wireless network configuration for laptops and tablets</li>
+<li>Port Address Translation (PAT), and access control lists</li>
 access and port trunking,
 </ul>
 <br />
