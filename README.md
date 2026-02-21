@@ -21,8 +21,8 @@
 <li>Subnetting using address table+ Interface IP addressing for layer 3 switches and routers.  </li>
 <li>Applied OSPF routing protocol to advertise departments on routers, and multi-layer switches</li>
 <li>Statically assigned IP adresses to server room devices,configured DHCP server, and created pools for 5 departments</li>
-<li>Multi-layer switch configuration for inter-VLAN routing,on 13 switches. Plus DHCP helper addresses </li>
-<li>Added wireless network configuration for laptops and tablets</li>
+<li>Inter-VLAN routing for layer 3 switches. Plus DHCP helper addresses </li>
+<li>Wireless network configuration,with WPA2-PSK authentication, for laptops and tablets</li>
 <li>Port Address Translation (PAT), and access control lists</li>
 access and port trunking,
 </ul>
