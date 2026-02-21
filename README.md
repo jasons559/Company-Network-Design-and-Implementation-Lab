@@ -15,7 +15,7 @@
 <b>Process and Configuration:</b>
 <ul>
 <li>Configured basic settings for all intermediary and end devices, such as hostname assignment, console and enable passwords, banner messaging, and IP domain lookup disabling.</li>
-<li>Configured SSH for all routers and layer 3 switches for remote login</li> 
+<li>SSH configuration on all routers and layer 3 switches for remote login</li> 
 <li>VLAN assignment for all departments, with access and trunk ports on 12 and 13 switches </li>
 <li>Configured switchport security to the Finance Department</li> 
 <li>IP addressing and subnetting using address table </li>
