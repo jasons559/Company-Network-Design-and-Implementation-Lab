@@ -2,24 +2,27 @@
 
 
 <h2>Description</h2>
-<p>In this project, I designed an enterprise network for a trading floor support center. The network design connects six departments,across three floors within the buildng. Each floor consists of two departments, with 120 expected users per department. The goal of this project, was to design a hierarchical network model to meet current business needs, and future expansion, while incorporating redundancy at each layer.</p> 
+<p>In this project, I designed an enterprise network for a trading floor support center. The network design connects six departments,across three floors within the building. Each floor consists of two departments, with 120 expected users per department. The goal of this project, was to design a hierarchical network model to meet current business needs, and future expansion, while incorporating redundancy at each layer.</p> 
 
 <b>Network components:</b>8 switches, 2 routers, 2 ISPS, DNS, DHCP, and E-mail servers
 
 <b>Additional devices:</b>PCs, printers, laptops, and tablets, with wireless connectivity. 
-  
+
+<p><b>1st Floor:</b> Sales and Marketing+ Human Resources/Logistics
+<b>2nd Floor:</b> Finance and Accounting+ Administrator/Public Relations
+<b>3rd Floor:</b> ICT+Server Room</p>
+
 <b>Process and Configuration:</b>
 <ul>
-<li>Configured basic settings for all intermediary and end devices, such as hostname assignment, consle password enabling, banner messaging, and IP domain lookup disabling.</li>
+<li>Configured basic settings for all intermediary and end devices, such as hostname assignment, console and enable passwords, banner messaging, and IP domain lookup disabling.</li>
 <li>Configured SSH for all routers and layer 3 switches for remote login</li> 
 <li>VLAN assignment for all departments, with access and trunk ports on 12 and 13 switches </li>
 <li>Configured switchport security to the Finance Department</li> 
-<li>IP addressing</li> 
-<li>Multi-layer switch configuration for inter-VLAN routing,on 13 switches. Plus DHCP helper addresses </li>
-
+<li>Subnetting and IP addressing</li>
 <li>Used OSPF routing protocol to advertise on routers,and multi-layer switches</li>
-<li>Statically allocated IP adresses to server room devices</li>
-
+<li>Statically allocated IP adresses to server room devices, and configured DHCP server</li>
+<li>Multi-layer switch configuration for inter-VLAN routing,on 13 switches. Plus DHCP helper addresses </li>
+<li>Added wireless network configurations</li>
 <li>port address translation (PAT), and access control lists</li>
 access and port trunking,
 </ul>
