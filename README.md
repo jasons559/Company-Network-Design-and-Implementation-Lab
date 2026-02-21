@@ -9,12 +9,14 @@
 <b>Additional devices:</b>PCs, printers, laptops, and tablets, with wireless connectivity. 
   
 <b>Process and Configuration:</b>
-<p>-Configured basic settings for all intermediary and end devices, such as hostname assignment, password enabling, banner messaging, and IP domain lookup disabling.<p/>
+<ul>
+<li>Configured basic settings for all intermediary and end devices, such as hostname assignment, password enabling, banner messaging, and IP domain lookup disabling.</li>
+<li>IP address and VLAN assignment with access and port trunking, configured inter-VLAN routing </li>
+<li>Configured switchport security to the Finance Department</li>
 
--Created subnets, performed IP address and VLAN assignment, configured inter-VLAN routing with access and port trunking
 -Additional configurations implemented include: switchport security, SSH and OSPF routing protocol, wireless network and DHCP server configuration, port address translation (PAT), and access control lists
 
-
+</ul>
 <br />
 
 
