@@ -12,7 +12,7 @@
 <b>2nd Floor:</b> Finance and Accounting+ Administrator/Public Relations
 <b>3rd Floor:</b> ICT+Server Room</p>
 
-<b>Process and Configuration:</b>
+<b>Process and Configuration Steps:</b>
 <ul>
 <li>Configured basic settings for all intermediary and end devices, such as hostname assignment, console and enable passwords, banner messaging, and IP domain lookup disabling.</li>
 <li>SSH configuration on all routers and layer 3 switches for remote login</li> 
