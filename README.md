@@ -18,7 +18,7 @@
 <li>Configured SSH for all routers and layer 3 switches for remote login</li> 
 <li>VLAN assignment for all departments, with access and trunk ports on 12 and 13 switches </li>
 <li>Configured switchport security to the Finance Department</li> 
-<li>Subnetting and IP addressing</li>
+<li>IP addressing and subnetting using address table </li>
 <li>Used OSPF routing protocol to advertise on routers,and multi-layer switches</li>
 <li>Statically allocated IP adresses to server room devices, and configured DHCP server</li>
 <li>Multi-layer switch configuration for inter-VLAN routing,on 13 switches. Plus DHCP helper addresses </li>
