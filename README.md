@@ -23,7 +23,7 @@
 <li>Statically assigned IP adresses to server room devices,configured DHCP server, and created pools for 5 departments</li>
 <li>Inter-VLAN routing for layer 3 switches. Plus DHCP helper addresses </li>
 <li>Wireless network configuration,with WPA2-PSK authentication, for laptops and tablets</li>
-<li>Port Address Translation(PAT),access control lists, and default static route configurations</li>
+<li>Port Address Translation(PAT),access control lists,and default static route configurations</li>
 
 </ul>
 <br />
