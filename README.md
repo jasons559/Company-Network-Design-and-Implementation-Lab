@@ -38,23 +38,23 @@
 
 - <b>MAC OS</b> 
 
-<h2>Network Screenshots:</h2>
+<h2>Screenshots:</h2>
 
 <p align="center">
 Enterprise Network (full view): <br/>
  <img src="https://github.com/jasons559/Company-Network-Design-and-Implementation-Lab/blob/546ae814f7bfa835dd2740e253335b43e2ec6ae9/images/Enterprise_Network_Full.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Multi-layer Switch 1:  <br/>
+Core Router 1:  <br/>
+<img src="https://github.com/jasons559/Company-Network-Design-and-Implementation-Lab/blob/432b9df69b7f05dc19d3e506ea6dc3d63915b729/images/Core_RT1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Multi-Layer Switch  1: <br/>
 <img src="https://github.com/jasons559/Company-Network-Design-and-Implementation-Lab/blob/310386878ae37aa434101d3abd1a6c7304579cfb/images/Mulit-layer_SW1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-CORE Router 1: <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Finance Department Switch:  <br/>
+<img src=   height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
