@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-<p>In this project, I designed an enterprise network for a trading floor support center. The network design connects six departments,across three floors within the building. Each floor consists of two departments, with 120 expected users per department. The goal of this project, was to design a hierarchical network model to meet current business needs, and future expansion, while incorporating redundancy at each layer.</p> 
+<p>In this project, I designed and configured an enterprise network for a trading floor support center. The network design connects six departments, across three floors within the building. Each floor consists of two departments, with 120 expected users per department. The goal of this project was to design a hierarchical network model, to meet current business needs and future expansion, while incorporating redundancy at each layer.</p> 
 
 <b>Network components:</b>8 switches, 2 routers, 2 ISPS, DNS, DHCP, and E-mail servers
 
@@ -57,11 +57,11 @@ Finance Department Switch:  <br/>
 <img src=   height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
+DHCP Server:  <br/>
 <img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
+Wireless Connectivity for Laptops and Tablets:  <br/>
 <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
