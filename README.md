@@ -42,7 +42,6 @@
 
 <p align="center">
 Enterprise Network (full view): <br/>
-<img src="https://imgur.com/a/4ZJniBg"/>
  <br />
 <br />
 Select the disk:  <br/>
