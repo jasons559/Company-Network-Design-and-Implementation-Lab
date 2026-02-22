@@ -42,7 +42,8 @@
 
 <p align="center">
 Enterprise Network (full view): <br/>
- <br />
+ <img src=/>
+<br />
 <br />
 Select the disk:  <br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
