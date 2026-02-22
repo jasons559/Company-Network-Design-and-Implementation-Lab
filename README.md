@@ -46,7 +46,7 @@ Enterprise Network (full view): <br/>
 <br />
 <br />
 Multi-layer Switch 1:  <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/jasons559/Company-Network-Design-and-Implementation-Lab/blob/310386878ae37aa434101d3abd1a6c7304579cfb/images/Mulit-layer_SW1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
