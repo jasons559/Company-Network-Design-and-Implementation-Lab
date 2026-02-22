@@ -46,7 +46,7 @@ Enterprise Network (full view): <br/>
 <br />
 <br />
 Multi-layer Switch 1:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
