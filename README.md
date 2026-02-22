@@ -42,7 +42,7 @@
 
 <p align="center">
 Enterprise Network (full view): <br/>
- <img src=/>
+ <img src="https://github.com/jasons559/Company-Network-Design-and-Implementation-Lab/blob/546ae814f7bfa835dd2740e253335b43e2ec6ae9/images/Enterprise_Network_Full.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
