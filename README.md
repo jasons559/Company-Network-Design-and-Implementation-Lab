@@ -57,8 +57,8 @@ Finance Department Switch:  <br/>
 <img src="https://github.com/jasons559/Company-Network-Design-and-Implementation-Lab/blob/79109996ea0df4af26a9fcf6653afc8b16a41445/images/Finance_SW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-DHCP Server:  <br/>
-<img src=  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+DHCP Server/Department Pools:  <br/>
+<img src="https://github.com/jasons559/Company-Network-Design-and-Implementation-Lab/blob/e2c26ef947e8197d2f0a48d2fb07b3aeb2079973/images/DHCP_Server_Config.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Wireless Connectivity for Laptops and Tablets:  <br/>
