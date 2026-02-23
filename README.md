@@ -65,8 +65,7 @@ Wireless Connectivity for Laptops and Tablets:  <br/>
 <img src=     height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 
 <!--
