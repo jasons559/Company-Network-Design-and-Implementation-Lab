@@ -54,7 +54,7 @@ Multi-Layer Switch  1: <br/>
 <br />
 <br />
 Finance Department Switch:  <br/>
-<img src=   height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/jasons559/Company-Network-Design-and-Implementation-Lab/blob/79109996ea0df4af26a9fcf6653afc8b16a41445/images/Finance_SW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 DHCP Server:  <br/>
