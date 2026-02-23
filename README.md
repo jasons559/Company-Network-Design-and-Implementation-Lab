@@ -58,7 +58,7 @@ Finance Department Switch:  <br/>
 <br />
 <br />
 DHCP Server:  <br/>
-<img src=    height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Wireless Connectivity for Laptops and Tablets:  <br/>
