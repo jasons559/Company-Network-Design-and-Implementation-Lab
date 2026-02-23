@@ -62,7 +62,7 @@ DHCP Server/Department Pools:  <br/>
 <br />
 <br />
 Wireless Connectivity for Laptops and Tablets:  <br/>
-<img src=     height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/jasons559/Company-Network-Design-and-Implementation-Lab/blob/757486557b692263b96ac5f301f3ee69f38bbe72/images/Sales_Laptop_Wireless.png"     height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
