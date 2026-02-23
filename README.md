@@ -29,12 +29,12 @@
 <br />
 
 
-<h2>Utilities Used</h2>
+<h2>Utilities Used:</h2>
 
 - <b>Cisco Packet Tracer</b> 
 
 
-<h2>Environments Used </h2>
+<h2>Environments Used: </h2>
 
 - <b>MAC OS</b> 
 
@@ -58,11 +58,11 @@ Finance Department Switch:  <br/>
 <br />
 <br />
 DHCP Server:  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=    height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Wireless Connectivity for Laptops and Tablets:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=     height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
